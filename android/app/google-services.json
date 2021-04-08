@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175899097813",
+    "project_id": "eshop-9c161",
+    "storage_bucket": "eshop-9c161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175899097813:android:2bb4d797788ec6f273805c",
+        "android_client_info": {
+          "package_name": "com.ruchira.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175899097813-hu93q6i8q99fe448mpkjbcfopeo8oln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCfyOmTXfikhAVln0l-7qcou09eSrGio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175899097813-hu93q6i8q99fe448mpkjbcfopeo8oln0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
